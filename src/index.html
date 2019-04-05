@@ -3,13 +3,26 @@
   <head>
     <meta charset="utf-8">
     <title>Caesar Cipher</title>
+    <!-- LInk a css -->
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div id="root">
-      <h1>Hola mundo!</h1>
+      <h1>Bienvenid@ a cifrades</h1>
+  <p>Ingresa tu texto aqui</p>
+  <textarea id="textoEntrada" cols="30" rows="10"></textarea>
+  <p>Ingresa tu clave</p>
+  <input type="number" id="clave">
+  <p>¿Que quieres hacer?</p>
+  <input type="button" value="Cifrar" onclick="botonCifrar()">
+  <input type="button" value="Descifrar" onclick="botonDescifrar()"><br><br>
+  <textarea id="outputText" cols="30" rows="10"></textarea>
+      
+
     </div>
+    <!-- Link al cipher.js -->
     <script src="cipher.js"></script>
+    <!-- Link al index.js -->
     <script src="index.js"></script>
   </body>
 </html>

@@ -1,5 +1,5 @@
-//BOTON CIFRAR
-function botonCifrar() {
+  //BOTON CIFRAR
+  document.getElementById("botonCifrar").onclick = () => {
     let texto = document.getElementById("textoEntrada").value;// creando variable donde se guardara texto ingresado
     console.log(texto); // Probando
     let desplazamiento = document.getElementById("clave").value;//creando variable que guardara la clave
@@ -27,11 +27,11 @@ function botonCifrar() {
     
     }  
     document.getElementById("outputText").value=outputText;
-  
+ 
   }
   
   //BOTON DESCIFRAR
-  function botonDescifrar() {
+  document.getElementById("botonDescifrar").onclick = () =>{
     let texto = document.getElementById("textoEntrada").value; //variable que guarda texto
     console.log(texto); // probando
     let desplazamiento = document.getElementById("clave").value; // variable que guarda la clave
@@ -62,5 +62,5 @@ function botonCifrar() {
     }
     document.getElementById("outputText").value=outputText;
   }
-  
+    
   

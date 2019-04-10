@@ -1,4 +1,4 @@
-# Dímelo cifrado
+ # Dímelo cifrado
 
 "Dímelo cifrado" está destinado para personas homosexuales que aún no han "salido del closet" y desean comunicarse con sus parejas o amigues de una forma segura, sin que nadie se entere de sus conversaciones. Para esto, “Dímelo cifrado” toma el texto que deseas enviar y con la ayuda de una clave, hace que el mensaje sea ilegible. Finalmente, lo único que quedaría es copiar el mensaje cifrado y pegarlo en cualquiera de las aplicaciones de mensajería y ¡Listo!, nadie sabra lo que tu mensaje dice.
  

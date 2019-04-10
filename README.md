@@ -4,14 +4,14 @@
  
 ## Modo de uso
 Para lograr cifrar tus mensajes, los pasos a seguir son los siguientes:
-1. Entra a http://127.0.0.1:5500/index.html,
+1. Entra a https://fcanalesp.github.io/SCL009-Cipher/src/index.html
 2. Dentro del primer cuadro de texto escribe el mensaje que deseas cifrar
 3. Ingresa la clave de seguridad para poder cifrar tu texto,
 4. Toma el mensaje cifrado , copialo y enviaselo a tus parejas, amigues, etc. **¡No olvides dar la clave!** e informarle a tu receptor que ocupaste “Dímelo cifrado” para que pueda descifrar el mensaje que le has enviado.
 
 Para poder descifrar el mensaje que te llego, los pasos a seguir son:
 1. copia el mensaje cifrado que te llego,
-2. Ingresa a la página de dimelo cifrado y pega el mensaje que recibiste en el primer recuadro,
+2. Ingresa a la página de dimelo cifrado (https://fcanalesp.github.io/SCL009-Cipher/src/index.html) y pega el mensaje que recibiste en el primer recuadro,
 3. Ingresa la clave secreta,
 4. Descubre el mensaje que te han enviado.
 
